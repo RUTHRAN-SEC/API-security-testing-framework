@@ -25,7 +25,7 @@ This project is a Red Team focused API security testing framework designed to id
 ## Project Structure
 ```
 api-security-framework/
-|__ main_scanner.py         # Automation engine
+|__ main_scanner.py         # Automation script of All three test
 │
 ├── app/                # Vulnerable API
 │   └── app.py
@@ -36,7 +36,7 @@ api-security-framework/
 │   └── api_key_test.py            
 │  
 │
-├── reports/            # Scan results
+├── Scanning Report For API testing Framework.pdf  # Scan results
 │
 ├── requirements.txt
 
@@ -87,6 +87,7 @@ python scripts/main_scanner.py
 - Python Requests Library
 ```jsx
 flask
+requests
 pyjwt
 ```
 
