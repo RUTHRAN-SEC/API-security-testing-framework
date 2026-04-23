@@ -4,7 +4,7 @@
 
 This project is a Red Team focused API security testing framework designed to identify common vulnerabilities in REST APIs.
 
-### It simulates real-world attack scenarios such as:
+### It simulates real world attack scenarios such as:
 
 - Broken Object Level Authorization (BOLA)
 - Rate Limiting Bypass
